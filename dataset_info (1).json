@@ -1,0 +1,127 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "blob_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "directory_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "content_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "detected_licenses": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "license_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "repo_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "snapshot_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "revision_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "branch_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "visit_date": {
+      "dtype": "timestamp[us]",
+      "_type": "Value"
+    },
+    "revision_date": {
+      "dtype": "timestamp[us]",
+      "_type": "Value"
+    },
+    "committer_date": {
+      "dtype": "timestamp[us]",
+      "_type": "Value"
+    },
+    "github_id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "star_events_count": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "fork_events_count": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "gha_license_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "gha_event_created_at": {
+      "dtype": "timestamp[us]",
+      "_type": "Value"
+    },
+    "gha_created_at": {
+      "dtype": "timestamp[us]",
+      "_type": "Value"
+    },
+    "gha_language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "src_encoding": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "is_vendor": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "is_generated": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "length_bytes": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "extension": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "filename": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "content": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "response": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
